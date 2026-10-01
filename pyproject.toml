@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cairn"
+version = "0.1.0"
+description = "CAIRN — inference release for meteorology-driven nowcasting of fugitive landfill emissions"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["torch>=2.0","numpy>=1.23","pandas>=1.5","pyarrow==21.0.0","scikit-learn>=1.2","einops>=0.6"]
+
+[project.scripts]
+cairn = "cairn.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cairn*"]

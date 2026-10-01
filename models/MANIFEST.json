@@ -1,0 +1,305 @@
+{
+ "species": {
+  "h2s": {
+   "source_experiment": "inner-probe walk-forward (7-day probe)",
+   "target_column": "H2S",
+   "weeks": {
+    "week_00": {
+     "sha256": "f387163b9a42b0398371213fb536d0da87a56680d30d7ac3950675cc5d46fe92",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-09-27 00:00:00",
+     "val_start": "2024-10-01 00:00:00",
+     "val_end": "2024-10-07 00:00:00",
+     "n_train": 35805,
+     "n_val": 1034,
+     "n_val_evaluated": 651
+    },
+    "week_01": {
+     "sha256": "205c8fd35e7112945853a6f890e2c170808f262317b3a848822fc4321676cc2f",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-04 00:00:00",
+     "val_start": "2024-10-08 00:00:00",
+     "val_end": "2024-10-14 00:00:00",
+     "n_train": 36459,
+     "n_val": 1041,
+     "n_val_evaluated": 658
+    },
+    "week_02": {
+     "sha256": "df9315aee892e0699c45b08e2a2744818daf47c373711f9e3ed22da0386a2757",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-11 00:00:00",
+     "val_start": "2024-10-15 00:00:00",
+     "val_end": "2024-10-21 00:00:00",
+     "n_train": 37120,
+     "n_val": 971,
+     "n_val_evaluated": 588
+    },
+    "week_03": {
+     "sha256": "436cd5a274b93379bdab0f5a7c2854727fa4313d8558c30159ad2c4aa6362c15",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-18 00:00:00",
+     "val_start": "2024-10-22 00:00:00",
+     "val_end": "2024-10-28 00:00:00",
+     "n_train": 37779,
+     "n_val": 846,
+     "n_val_evaluated": 463
+    },
+    "week_04": {
+     "sha256": "986b14f58efa226e1a30ad9f06bd36ea973bb63f471edf41e55acc2c15420cca",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-25 00:00:00",
+     "val_start": "2024-10-29 00:00:00",
+     "val_end": "2024-11-04 00:00:00",
+     "n_train": 38245,
+     "n_val": 1041,
+     "n_val_evaluated": 658
+    },
+    "week_05": {
+     "sha256": "81a4085fe20e610270c34d94079b5fdfe4d1acc854b8fac9b037fed1ce866922",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-01 00:00:00",
+     "val_start": "2024-11-05 00:00:00",
+     "val_end": "2024-11-11 00:00:00",
+     "n_train": 38910,
+     "n_val": 826,
+     "n_val_evaluated": 443
+    },
+    "week_06": {
+     "sha256": "560032274695a344cc07cbfb6603bc640c49dd33feeb8835e2974b8f2a5775f0",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-08 00:00:00",
+     "val_start": "2024-11-12 00:00:00",
+     "val_end": "2024-11-18 00:00:00",
+     "n_train": 39356,
+     "n_val": 1035,
+     "n_val_evaluated": 652
+    },
+    "week_07": {
+     "sha256": "b63b17bdf05c5a6d441ab3da7292c9b66fcd299b0235c571bd7f6d98c307c389",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-15 00:00:00",
+     "val_start": "2024-11-19 00:00:00",
+     "val_end": "2024-11-25 00:00:00",
+     "n_train": 40020,
+     "n_val": 1032,
+     "n_val_evaluated": 649
+    },
+    "week_08": {
+     "sha256": "4669b01ba88d30897071942dd9454ec74ae16f184d95725ef9a802a26f887c2d",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-22 00:00:00",
+     "val_start": "2024-11-26 00:00:00",
+     "val_end": "2024-12-02 00:00:00",
+     "n_train": 40676,
+     "n_val": 1041,
+     "n_val_evaluated": 658
+    },
+    "week_09": {
+     "sha256": "40bb59cddd466b5314efabe144c42d469701042146f551c5d41266a82671bb4e",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-29 00:00:00",
+     "val_start": "2024-12-03 00:00:00",
+     "val_end": "2024-12-09 00:00:00",
+     "n_train": 41337,
+     "n_val": 1039,
+     "n_val_evaluated": 656
+    },
+    "week_10": {
+     "sha256": "d301e87b9dad0f5b602e566cb82def5b2a520aa0a4269438c2f00a15dfce6a9e",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-12-06 00:00:00",
+     "val_start": "2024-12-10 00:00:00",
+     "val_end": "2024-12-16 00:00:00",
+     "n_train": 41996,
+     "n_val": 1039,
+     "n_val_evaluated": 656
+    },
+    "week_11": {
+     "sha256": "9d666b693e8d292c0aa4c3fd5b70733bd90f8f18550e6688441140f4ec1f83d9",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-12-13 00:00:00",
+     "val_start": "2024-12-17 00:00:00",
+     "val_end": "2024-12-23 00:00:00",
+     "n_train": 42659,
+     "n_val": 1029,
+     "n_val_evaluated": 646
+    },
+    "week_12": {
+     "sha256": "5b001c58f7d2990726d3f0d8ff706fa05574a3bb87e82bba7225516c8023fbac",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-12-20 00:00:00",
+     "val_start": "2024-12-24 00:00:00",
+     "val_end": "2024-12-30 00:00:00",
+     "n_train": 43308,
+     "n_val": 1045,
+     "n_val_evaluated": 662
+    }
+   },
+   "selection_protocol": "inner temporal probe, 7 days preceding each evaluation week"
+  },
+  "ch4": {
+   "source_experiment": "20260427_224948_ch4_s4_physics_mste_2a_walkforward",
+   "target_column": "CH4",
+   "weeks": {
+    "week_00": {
+     "sha256": "42f000d9758e3dfa8f33c24ff943d7641fe97ca2f118cbcf6f1349926978b8c3",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-09-27 00:00:00",
+     "val_start": "2024-10-01 00:00:00",
+     "val_end": "2024-10-07 00:00:00",
+     "n_train": 36331,
+     "n_val": 1029,
+     "n_val_evaluated": 646
+    },
+    "week_01": {
+     "sha256": "29df686469d2a15f4deae122a04814b0da759d7ad2401888556d0e25c49cdc33",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-04 00:00:00",
+     "val_start": "2024-10-08 00:00:00",
+     "val_end": "2024-10-14 00:00:00",
+     "n_train": 36980,
+     "n_val": 1040,
+     "n_val_evaluated": 657
+    },
+    "week_02": {
+     "sha256": "627b0356a7027d3438ecbc4e661e3cef0f4cfe622e5cfc0feb35b5e8b14526c4",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-11 00:00:00",
+     "val_start": "2024-10-15 00:00:00",
+     "val_end": "2024-10-21 00:00:00",
+     "n_train": 37640,
+     "n_val": 976,
+     "n_val_evaluated": 593
+    },
+    "week_03": {
+     "sha256": "8f1aee53e3aff330c5b3ea233fb03bac4eac092d469db25b9121f0d53a4ad486",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-18 00:00:00",
+     "val_start": "2024-10-22 00:00:00",
+     "val_end": "2024-10-28 00:00:00",
+     "n_train": 38304,
+     "n_val": 846,
+     "n_val_evaluated": 463
+    },
+    "week_04": {
+     "sha256": "cce4641f9d0d7e501df092056a662029cf7c1198eb02536ae5ca6988d9e2ee19",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-10-25 00:00:00",
+     "val_start": "2024-10-29 00:00:00",
+     "val_end": "2024-11-04 00:00:00",
+     "n_train": 38770,
+     "n_val": 1042,
+     "n_val_evaluated": 659
+    },
+    "week_05": {
+     "sha256": "58fd8a9092b2df0ff34b632e97948d6986f152ec06ddaf2b861480bfb67d55e4",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-01 00:00:00",
+     "val_start": "2024-11-05 00:00:00",
+     "val_end": "2024-11-11 00:00:00",
+     "n_train": 39435,
+     "n_val": 833,
+     "n_val_evaluated": 450
+    },
+    "week_06": {
+     "sha256": "de6627b6352daa7f92bd3b1dc13529de479504944c03b166e69e1e23b6f31762",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-08 00:00:00",
+     "val_start": "2024-11-12 00:00:00",
+     "val_end": "2024-11-18 00:00:00",
+     "n_train": 39888,
+     "n_val": 1041,
+     "n_val_evaluated": 658
+    },
+    "week_07": {
+     "sha256": "d95ab2d74cafd44fe7d748d2c94e689d5321875bbb0080c4baca4c149dcd1f3e",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-15 00:00:00",
+     "val_start": "2024-11-19 00:00:00",
+     "val_end": "2024-11-25 00:00:00",
+     "n_train": 40552,
+     "n_val": 1042,
+     "n_val_evaluated": 659
+    },
+    "week_08": {
+     "sha256": "d8f42d4195fc6d0d3adec17c55a81021130a2097a8bf86739b07503ba3b7d2a7",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-22 00:00:00",
+     "val_start": "2024-11-26 00:00:00",
+     "val_end": "2024-12-02 00:00:00",
+     "n_train": 41214,
+     "n_val": 1045,
+     "n_val_evaluated": 662
+    },
+    "week_09": {
+     "sha256": "9223e75cb4c12bbdf8399515edd61f57a3c4564808bd6ad9d853e56f308df2a7",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-11-29 00:00:00",
+     "val_start": "2024-12-03 00:00:00",
+     "val_end": "2024-12-09 00:00:00",
+     "n_train": 41879,
+     "n_val": 1040,
+     "n_val_evaluated": 657
+    },
+    "week_10": {
+     "sha256": "d262e37ce636e60a2128f69973606683250dc255803a3160006086ad59c0f2f2",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-12-06 00:00:00",
+     "val_start": "2024-12-10 00:00:00",
+     "val_end": "2024-12-16 00:00:00",
+     "n_train": 42539,
+     "n_val": 1043,
+     "n_val_evaluated": 660
+    },
+    "week_11": {
+     "sha256": "ce6c991a30ca54e86cee922acb48da3c05408c991156d0a46d9412311c55c064",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-12-13 00:00:00",
+     "val_start": "2024-12-17 00:00:00",
+     "val_end": "2024-12-23 00:00:00",
+     "n_train": 43202,
+     "n_val": 1036,
+     "n_val_evaluated": 653
+    },
+    "week_12": {
+     "sha256": "93ea0b5138b42d1a79a4e7ca65b9797626c3eb9f1dccef713ad1c95fb8002160",
+     "bytes": 3111803,
+     "train_start": "2023-09-01",
+     "train_end": "2024-12-20 00:00:00",
+     "val_start": "2024-12-24 00:00:00",
+     "val_end": "2024-12-30 00:00:00",
+     "n_train": 43858,
+     "n_val": 1045,
+     "n_val_evaluated": 662
+    }
+   },
+   "selection_protocol": "checkpoint selected on the evaluation week (see README)"
+  }
+ },
+ "build_note": "H2S checkpoints are the matched inner-probe run reported in the manuscript (pooled F1-High 0.533, TP 539 / FP 612 / FN 333). CH4 checkpoints are selected on the evaluation week, as stated in Supplementary Table S14."
+}

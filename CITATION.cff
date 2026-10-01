@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "CAIRN — Causal-Anchored Inference for Receptor Nowcasting (inference release)"
+message: "If you use this software, please cite the accompanying paper."
+type: software
+version: 0.1.0
+authors:
+  - family-names: Pearce
+    given-names: Timothy C.
+  - family-names: Smith
+    given-names: David J. T.
+  - family-names: Dobney
+    given-names: Alec
+  - family-names: Freddo
+    given-names: Alessia
+repository-code: "https://github.com/tcpearce/CAIRN"
+abstract: >-
+  Inference-only release reproducing the walk-forward H2S and CH4 High-class
+  predictions reported in the accompanying manuscript. Contains no training
+  code and no community odour-report records.
+preferred-citation:
+  type: article
+  title: "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions from Measured Coupling Timescales"
+  authors:
+    - family-names: Pearce
+      given-names: Timothy C.
+    - family-names: Smith
+      given-names: David J. T.
+    - family-names: Dobney
+      given-names: Alec
+    - family-names: Freddo
+      given-names: Alessia
+  year: 2026
+  doi: "10.48550/arXiv.2608.14254"
+  url: "https://arxiv.org/abs/2608.14254"
+  repository: "arXiv"
